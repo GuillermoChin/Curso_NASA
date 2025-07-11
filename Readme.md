@@ -88,7 +88,7 @@ Si utilizas estos scripts, ideas o adaptaciones para docencia, divulgación o pu
 ## 📫 Contacto
 
 - 📧 Correo: **guillermochin.scj@gmail.com**  
-- 🌐 Linktree: [https://linktr.ee/guille_chin](https://linktr.ee/guille_chin)
+- 🌐 Linktree: [https://linktr.ee/guille_chin] (https://linktr.ee/guille_chin)
 
 ---
 
